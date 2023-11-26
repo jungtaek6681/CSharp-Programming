@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "00. Programming", "00. Prog
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. DataType", "01. DataType\01. DataType.csproj", "{16EABBE0-C31F-42A3-95B7-4EAAEDA528D9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Operator", "02. Operator\02. Operator.csproj", "{92C0F8A7-A8F1-438A-804B-5D25FC2A4E5B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{16EABBE0-C31F-42A3-95B7-4EAAEDA528D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{16EABBE0-C31F-42A3-95B7-4EAAEDA528D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{16EABBE0-C31F-42A3-95B7-4EAAEDA528D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92C0F8A7-A8F1-438A-804B-5D25FC2A4E5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92C0F8A7-A8F1-438A-804B-5D25FC2A4E5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92C0F8A7-A8F1-438A-804B-5D25FC2A4E5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92C0F8A7-A8F1-438A-804B-5D25FC2A4E5B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
