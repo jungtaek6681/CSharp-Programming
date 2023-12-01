@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Loop", "04. Loop\04. Lo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Function", "05. Function\05. Function.csproj", "{49CA2C5A-BBA7-4C62-9C6A-8D4B1573D6C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. UserDefineType", "06. UserDefineType\06. UserDefineType.csproj", "{109D1FC8-2A68-40FC-B13B-2B7254D8F35C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. UserDefineType", "06. UserDefineType\06. UserDefineType.csproj", "{109D1FC8-2A68-40FC-B13B-2B7254D8F35C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Class", "07. Class\07. Class.csproj", "{490D6090-300D-46F2-8116-B54934A33773}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{109D1FC8-2A68-40FC-B13B-2B7254D8F35C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{109D1FC8-2A68-40FC-B13B-2B7254D8F35C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{109D1FC8-2A68-40FC-B13B-2B7254D8F35C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{490D6090-300D-46F2-8116-B54934A33773}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{490D6090-300D-46F2-8116-B54934A33773}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{490D6090-300D-46F2-8116-B54934A33773}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{490D6090-300D-46F2-8116-B54934A33773}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
