@@ -23,7 +23,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08. Memory", "08. Memory\08
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09. OOP", "09. OOP\09. OOP.csproj", "{69A40D6F-8898-4FF5-8943-A6ADD09C1E46}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. Interface", "10. Interface\10. Interface.csproj", "{DAFE4E48-6B8D-4E31-AE2B-78F527E2FB7C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10. Interface", "10. Interface\10. Interface.csproj", "{DAFE4E48-6B8D-4E31-AE2B-78F527E2FB7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. Array", "11. Array\11. Array.csproj", "{14EC36EA-C351-424F-BFCF-71F9371F53C9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{DAFE4E48-6B8D-4E31-AE2B-78F527E2FB7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DAFE4E48-6B8D-4E31-AE2B-78F527E2FB7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DAFE4E48-6B8D-4E31-AE2B-78F527E2FB7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14EC36EA-C351-424F-BFCF-71F9371F53C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14EC36EA-C351-424F-BFCF-71F9371F53C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14EC36EA-C351-424F-BFCF-71F9371F53C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14EC36EA-C351-424F-BFCF-71F9371F53C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
